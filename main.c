@@ -128,5 +128,6 @@ int main()
         printf("\n");
     }
     printf("\nEnjoy Your Star");	
+    printf("\nEnjoy Your Star Again");
     return 0;
 }
