@@ -127,5 +127,6 @@ int main()
         l++;
         printf("\n");
     }
+    printf("\nEnjoy Your Star");	
     return 0;
 }
