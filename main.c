@@ -129,6 +129,5 @@ int main()
     }
     printf("\nEnjoy Your Star");	
     printf("\nEnjoy Your Star Again");
-    printf("\nEnjoy Your Star For The Last Time");
     return 0;
 }
